@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">In Class Exercise</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_disaply_result">DisaplyResultActivity</string>
+    <string name="DisaplyResultActivit">Results</string>
+</resources>
